@@ -1,0 +1,11 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# Generated Android build products
+android/.gradle/
+android/app/build/
+capacitor-cordova-android-plugins/build/
+*.apk
+Noctis-*.apk.sha256

@@ -1,0 +1,12 @@
+﻿{
+  "appId": "ws.ct.noctis.android",
+  "appName": "Noctis",
+  "webDir": "www",
+  "server": {
+    "url": "https://noctis.ct.ws",
+    "allowNavigation": ["noctis.ct.ws", "*.noctis.ct.ws"]
+  },
+  "android": {
+    "path": "android"
+  }
+}
